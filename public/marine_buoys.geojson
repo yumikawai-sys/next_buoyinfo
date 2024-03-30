@@ -1,0 +1,97 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [-63.4, 44.5]
+        },
+        "properties": {
+          "id": "buoy44258",
+          "type": "mooring",
+          "status": "active",
+          "description": "Mooring buoy located off Halifax"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [-66.37, 44.66]
+        },
+        "properties": {
+          "id": "buoy44490",
+          "type": "navigation",
+          "status": "active",
+          "description": "Navigation buoy on Bay of Fundy"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [-61.14, 45.49]
+        },
+        "properties": {
+          "id": "buoy44489",
+          "type": "navigation",
+          "status": "active",
+          "description": "Navigation buoy located on Sydney"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [-64.02, 42.5]
+        },
+        "properties": {
+          "id": "buoy44150",
+          "type": "mooring",
+          "status": "active",
+          "description": "mooring buoy located on La Have Bank"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [-69.127, 43.201]
+        },
+        "properties": {
+          "id": "buoy44005",
+          "type": "navigation",
+          "status": "active",
+          "description": "Navigation buoy located off Gulf of Maine"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [-76.87, 43.780]
+        },
+        "properties": {
+          "id": "buoy45135",
+          "type": "navigation",
+          "status": "active",
+          "description": "Navigation buoy located on Prince Edward Pt"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [-67.301, 44.284]
+        },
+        "properties": {
+          "id": "buoy44027",
+          "type": "mooring",
+          "status": "active",
+          "description": "mooring buoy located on Janesport"
+        }
+      }
+    ]
+  }
+  
